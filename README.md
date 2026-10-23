@@ -1,4 +1,4 @@
-# Personal Expense Tracker 💰
+# Personal Expense Tracker 
 
 This is a small Python project I built to practice my programming skills. It helps me keep track of expenses, calculate total spending, and save expense records so I can access them again when I run the program.
 
